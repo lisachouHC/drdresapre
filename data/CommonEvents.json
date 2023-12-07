@@ -1,0 +1,7 @@
+[
+null,
+{"id":1,"list":[{"code":101,"indent":0,"parameters":["",0,0,2]},{"code":401,"indent":0,"parameters":["使用素材連結，感謝各位提供的素材"]},{"code":101,"indent":0,"parameters":["",0,0,2]},{"code":401,"indent":0,"parameters":["因有些素材有跨非常多區域，因此不分素材類型統一感謝。"]},{"code":105,"indent":0,"parameters":[3,false]},{"code":405,"indent":0,"parameters":["http://www.chimakier.com"]},{"code":405,"indent":0,"parameters":["https://tm.lucky-duet.com/viewtopic.php?f=15&t=3622"]},{"code":405,"indent":0,"parameters":["https://tm.lucky-duet.com/viewtopic.php?f=15&t=1978"]},{"code":405,"indent":0,"parameters":["https://tm.lucky-duet.com/viewtopic.php?f=15&t=300"]},{"code":405,"indent":0,"parameters":["https://www.deviantart.com/shuatinwe/art/Shua-Inside-D2"]},{"code":405,"indent":0,"parameters":["-modern-V2-695368297"]},{"code":405,"indent":0,"parameters":["https://forums.rpgmakerweb.com/index.php?threads/avys-m"]},{"code":405,"indent":0,"parameters":["v-stuff.53317/"]},{"code":405,"indent":0,"parameters":["https://kenkenbgm.blogspot.com/p/about-rules.html"]},{"code":0,"indent":0,"parameters":[]}],"name":"第一天結束","switchId":10,"trigger":1},
+{"id":2,"list":[{"code":0,"indent":0,"parameters":[]}],"name":"","switchId":1,"trigger":0},
+{"id":3,"list":[{"code":0,"indent":0,"parameters":[]}],"name":"","switchId":1,"trigger":0},
+{"id":4,"list":[{"code":0,"indent":0,"parameters":[]}],"name":"","switchId":1,"trigger":0}
+]
